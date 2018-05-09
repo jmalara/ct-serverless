@@ -4,12 +4,12 @@ service: ct-serverless
 provider:
   name: aws
   runtime: nodejs8.10
-  stage: dev
+  stage: prd
   region: us-west-2
 
    
 functions:
-  genToken:
+  genIndex:
     handler: handler.genIndex
     events:
       - http:
