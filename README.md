@@ -1,2 +1,5 @@
-# CT-serverless
-CT Assessment - Serverless
+# Serverless example for CT
+This code deploys an example serverless configuration
+
+# Requirements
+Node must be installed
