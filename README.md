@@ -4,6 +4,7 @@ This code deploys an example serverless configuration.  I know, you asked for EC
 # Requirements
 1. Node must be installed, I didnt want to auto install Node in case you have any dependency issues on older Nodejs versions and have you hate me later. https://nodejs.org/en/download/
 2. AWS CLI
+3. Access Key and Secret key for an administrator setup in your aws credential file under the default profile
 
 # Usage
 1. Clone the repository
