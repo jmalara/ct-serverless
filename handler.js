@@ -3,7 +3,7 @@
 module.exports.genIndex = (event, context, callback) => {
 
     var html = '<html><head><title>ConsumerTrak Serverless Example</title></head><body>\
-    <h1>Why Not Serverless?</h1>\
+    <h1>Why Not Serverless????</h1>\
     <table>\
     <tr>\
     <td>Lambda Region:</td><td>' + process.env.AWS_REGION + '</td></tr>\
